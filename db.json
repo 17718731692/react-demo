@@ -1,0 +1,72 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "drugCode": "SY100101",
+      "drugName": "莲花清瘟",
+      "price": "37.55",
+      "business": "老百姓大药房",
+      "type": "感冒药"
+    },
+    {
+      "id": "2",
+      "drugCode": "SY100102",
+      "drugName": "丽珠得乐",
+      "price": "22.44",
+      "business": "怡心大药房",
+      "type": "儿童药"
+    },
+    {
+      "id": "3",
+      "drugCode": "SY100103",
+      "drugName": "三九胃泰",
+      "price": "33.45",
+      "business": "怡心大药房",
+      "type": "胃药"
+    },
+    {
+      "id": "4",
+      "drugCode": "SY100104",
+      "drugName": "金花液体钙",
+      "price": "346.77",
+      "business": "怡心大药房",
+      "type": "西药"
+    },
+    {
+      "id": "5",
+      "drugCode": "SY100105",
+      "drugName": "生脉饮",
+      "price": "22.95",
+      "business": "老百姓大药房",
+      "type": "中成药"
+    },
+    {
+      "id": "6",
+      "drugCode": "SY100106",
+      "drugName": "六叶地黄丸",
+      "price": "43.56",
+      "business": "老百姓大药房",
+      "type": "中成药"
+    },
+    {
+      "id": "7",
+      "drugCode": "SY111111",
+      "drugName": "测试编辑",
+      "price": "100",
+      "business": "老百姓大药房",
+      "type": "感冒药"
+    }
+  ],
+  "loginData": [
+    {
+      "id": 0.9959740888969257,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 0.48345884496932956,
+      "username": "dongsh",
+      "password": "cape"
+    }
+  ]
+}
